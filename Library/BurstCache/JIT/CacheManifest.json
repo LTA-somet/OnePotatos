@@ -1,0 +1,883 @@
+{
+  "BurstVersion": "ed7d93ab-72ae-4d46-9fc9-027b31698d75",
+  "Assemblies": [
+    {
+      "FullName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-08-23T05:04:22Z"
+    },
+    {
+      "FullName": "Unity.2D.Common.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.6979967Z"
+    },
+    {
+      "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "LastWriteTime": "2023-08-23T04:46:42Z"
+    },
+    {
+      "FullName": "PsdPlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.7070715Z"
+    },
+    {
+      "FullName": "Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.6969967Z"
+    },
+    {
+      "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.7050714Z"
+    },
+    {
+      "FullName": "UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-08-23T05:04:22Z"
+    },
+    {
+      "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.6949971Z"
+    },
+    {
+      "FullName": "netstandard, Version=2.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51",
+      "LastWriteTime": "2023-08-23T04:46:42Z"
+    },
+    {
+      "FullName": "Unity.2D.Common.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.690997Z"
+    },
+    {
+      "FullName": "Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.6969967Z"
+    },
+    {
+      "FullName": "UnityEngine.SpriteShapeModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-08-23T05:04:22Z"
+    },
+    {
+      "FullName": "Unity.2D.Aseprite.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.690997Z"
+    },
+    {
+      "FullName": "mscorlib, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2023-08-23T04:46:42Z"
+    },
+    {
+      "FullName": "Unity.2D.Psdimporter.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.7034506Z"
+    },
+    {
+      "FullName": "Unity.2D.Animation.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.6939968Z"
+    },
+    {
+      "FullName": "Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+      "LastWriteTime": "2024-05-24T02:29:21.7050714Z"
+    }
+  ],
+  "Functions": [
+    {
+      "FullName": "Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEditor.U2D.Common.FindTightRectJob, Unity.2D.Common.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.Common.FindTightRectJob&, Unity.2D.Common.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "5e252269cacdda431d36d905fec55d67",
+      "LinkName": "FBD0B2A6246F6223",
+      "AssemblyDependencyIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[PaintDotNet.Data.PhotoshopFileType.PDNAlphaMaskJob, PsdPlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(PaintDotNet.Data.PhotoshopFileType.PDNAlphaMaskJob&, PsdPlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6cd9d92e785317406a51c9399d94296d",
+      "LinkName": "B33AFCD7D8FB6AEB",
+      "AssemblyDependencyIndices": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[UnityEditor.U2D.Animation.BiharmonicsJob, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.Animation.BiharmonicsJob&, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2374d5097f69a0742235e826a0fa0950",
+      "LinkName": "9C987EFE5F9A4A52",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        5,
+        6,
+        2,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[UnityEngine.U2D.SpriteShapeGenerator, Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.U2D.SpriteShapeGenerator&, Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "db7d04b9505de0570a47eebd7c160b5b",
+      "LinkName": "104599FDEEB36FAE",
+      "AssemblyDependencyIndices": [
+        0,
+        10,
+        2,
+        8,
+        7,
+        11,
+        9
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEditor.U2D.Aseprite.Common.FindTightRectJob, Unity.2D.Aseprite.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.Aseprite.Common.FindTightRectJob&, Unity.2D.Aseprite.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "724bee026ed3dd2a28f3b6f6567cad82",
+      "LinkName": "BDAC3C956B243D2E",
+      "AssemblyDependencyIndices": [
+        0,
+        12,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[UnityEditor.U2D.Animation.TriangulateJob, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.Animation.TriangulateJob&, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "8e531d54d3be1ba3e9a70f4a16e044fe",
+      "LinkName": "49056CD1270901E4",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        9,
+        2,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobExtensions+JobStruct`1[[UnityEditor.U2D.Animation.TessellateJob, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.Animation.TessellateJob&, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "50db0d761257cdb8db5a9eba42b658b2",
+      "LinkName": "750999B742A414C6",
+      "AssemblyDependencyIndices": [
+        0,
+        4,
+        13,
+        2,
+        9,
+        7,
+        8
+      ]
+    },
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoSetCSRTrampoline(System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "e6d12231bdac697e8731653fc98a4b13",
+      "LinkName": "801E9A000BB37B05",
+      "AssemblyDependencyIndices": [
+        5,
+        8,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Burst.Intrinsics.X86, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DoGetCSRTrampoline()",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "d780a66ec560c02408e1a3a468196b7d",
+      "LinkName": "CDCA4A5193BE5947",
+      "AssemblyDependencyIndices": [
+        5,
+        8,
+        2
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEditor.U2D.PSD.ExtractLayerTask+ConvertBufferJob, Unity.2D.Psdimporter.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.PSD.ExtractLayerTask+ConvertBufferJob&, Unity.2D.Psdimporter.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "97e934a0f7e7128ff0f74653e177b605",
+      "LinkName": "85C34B2AEC2FC609",
+      "AssemblyDependencyIndices": [
+        0,
+        14,
+        2,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEditor.U2D.PSD.FlattenImageTask+FlattenImageInternalJob, Unity.2D.Psdimporter.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEditor.U2D.PSD.FlattenImageTask+FlattenImageInternalJob&, Unity.2D.Psdimporter.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "fc15e57946016ab7c0914030221bfcbe",
+      "LinkName": "18C2EC3E41FEE880",
+      "AssemblyDependencyIndices": [
+        0,
+        14,
+        2,
+        7
+      ]
+    },
+    {
+      "FullName": "Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[PaintDotNet.Data.PhotoshopFileType.PDNDecoderJob, PsdPlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(PaintDotNet.Data.PhotoshopFileType.PDNDecoderJob&, PsdPlugin, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "789a61c6b3aa0b842bc5b617a3f7c962",
+      "LinkName": "4B57F329150937D0",
+      "AssemblyDependencyIndices": [
+        0,
+        3,
+        2
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Common.ImagePacker, Unity.2D.Common.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::BurstedBlit(UnityEngine.Color32*, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.int4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.int4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|UnityEngine.Color32*, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "da77a205becbeb7a8e14836e123f249c",
+      "LinkName": "8115CAFF6B65630B",
+      "AssemblyDependencyIndices": [
+        1,
+        2,
+        0,
+        7,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.Common.ImagePacker, Unity.2D.Aseprite.Common, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::BurstedBlit(UnityEngine.Color32*, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.int4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.int4&, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|UnityEngine.Color32*, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "1a72efcd030213202397cb67363ba253",
+      "LinkName": "98F0B94E81C56132",
+      "AssemblyDependencyIndices": [
+        12,
+        2,
+        0,
+        7,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEngine.U2D.Animation.BurstedSpriteSkinUtilities, Unity.2D.Animation.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ValidateBoneWeights(Unity.Collections.NativeSlice`1[[UnityEngine.BoneWeight, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "0d477c93162194a24ec11445e92b64d5",
+      "LinkName": "22C1BA9B75E8DDE1",
+      "AssemblyDependencyIndices": [
+        15,
+        8,
+        2,
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Normal(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "58eea3f5d5fb7a5799c5808f247ddbb5",
+      "LinkName": "3BBA922C5BD340F0",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Darken(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "0fbc717af8f8e06c41dc3ea60a6a70d0",
+      "LinkName": "62D0693A7DAE3BF2",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Multiply(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "bde64d434c7d3653e0c4eb209464c5dc",
+      "LinkName": "70F6B2F3D134B23E",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ColorBurn(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "efaa32d6c9c1911b77d37b572b39b6b1",
+      "LinkName": "DAA0F4F1418E1C6C",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::BurnChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9ff9a06c623b81ebb12631eaf26ea925",
+      "LinkName": "9F1830C7A32765FD",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Lighten(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "2cb73e48b17c0f0574f3642126da40c3",
+      "LinkName": "28771DBBD7F795BB",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Screen(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "0205ed19d7f9a4b7bc3fe79537f7eacf",
+      "LinkName": "96CE164DCCCB1B70",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ColorDodge(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "17e9be289b613e0647d755d6f8382150",
+      "LinkName": "8308C9E2892F6E5A",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DodgeChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6f00c22a3645a4608c9b79ec944baa7d",
+      "LinkName": "883C9AC616120DEE",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Addition(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "b03f7f017a0ee619e48f9bcfc60cf54d",
+      "LinkName": "A7390C99179292F4",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Overlay(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6f62cbcea01fcef8bd97669e4b0be243",
+      "LinkName": "F7D26AC64A1DAC3B",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::HardLightChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "7fda051dd437698fd4b1cd2290d6eb89",
+      "LinkName": "870BA7F2192613DF",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SoftLight(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "a45f787d1526f0f012a70b7bb7ddac02",
+      "LinkName": "260325D94914FBD3",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SoftLightChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "7f3da6d49f2c11574ed0c147da7a6a33",
+      "LinkName": "5D1FA2CBD61331BF",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::HardLight(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c85efbbdec523ca485986fe70e07287d",
+      "LinkName": "CA97EE79910C7494",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Difference(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "180f59d8dec3358766f9936af71ad02d",
+      "LinkName": "6ED7C2AE8E496882",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DifferenceChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "1d99639d0d9262d9a470d3b0c3e81598",
+      "LinkName": "B05B9394025D200E",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Exclusion(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "4fbdf9f929bbf5a973518072e96f3c53",
+      "LinkName": "D86A9BB810F6760B",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ExclusionChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "34f7e323604a46159ac3678398726304",
+      "LinkName": "138603036CFC9CB8",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Subtract(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c97787f2bbd4ea4d8031cd81003379a4",
+      "LinkName": "1CB5B7BE437C961A",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Divide(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "c5606dd94843821a4e21e15ae48916d3",
+      "LinkName": "4C455B3B2120EA16",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DivideChannel(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "4332320e0ce56a035f2bba2f22e54851",
+      "LinkName": "A6EF1802CF3CFE1E",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Hue(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "dfd6c3ac4418254eb048cac641fb5d89",
+      "LinkName": "1BEA8CC8A6846F2C",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Saturation(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ccfd84b6e0c1131f5e90ab902d2c4cf9",
+      "LinkName": "354C57581B2F6023",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ColorBlend(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "513435dd70063b4d3a9777bd1e2f4ea5",
+      "LinkName": "60B5630FC811DFF5",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Luminosity(UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|UnityEngine.Color32&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "0405d80d9fa06292724f4668bdd97514",
+      "LinkName": "BDB0260838A3AD78",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        0,
+        5,
+        8,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::MultiplyUnsignedByte(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "097184c1af9e9c6c83dce1e81fd01815",
+      "LinkName": "F0C4B326AAEE07D0",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ScreenUnsignedByte(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "4f342378dba7475766b474a9856e8e40",
+      "LinkName": "AD26A8C88DD9C7A8",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::DivideUnsignedByte(System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Byte, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "a9abd44ecf59fb8b426bec46c203664a",
+      "LinkName": "95A2A82581DF6B5C",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::GetSaturation(System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "013b5baf2b0004d8a7e12b959a63f787",
+      "LinkName": "AC34075A51EA8199",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SetSaturation(System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "d2f0dfd0d25114f6dec3afd65469d9ab",
+      "LinkName": "7126F3102C4C13A5",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::MaxRef(System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "8c2f073aff957c863c86538c22895ad7",
+      "LinkName": "BE27750C314AC629",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::MinRef(System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "ca036a35e1cde2210bcf9607f74f3df6",
+      "LinkName": "959DCDFA0388AAA0",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::GetLuminosity(System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "8bab29e86a25065cc4ff0350b12db092",
+      "LinkName": "C19540B8E00E7665",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SetLuminosity(System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "9e170b2df9a4f8a411a567c6719791b8",
+      "LinkName": "A407C61872649529",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Aseprite.PixelBlends, Unity.2D.Aseprite.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ClipColor(System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "697f5cd07ef953485c69e157e87535a5",
+      "LinkName": "7DDEC7A114FF6210",
+      "AssemblyDependencyIndices": [
+        16,
+        2,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.TriangulationUtility, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::ValidateCollinear(Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "a28eda3cdc44b2a17973dcc866084ff9",
+      "LinkName": "7F9BDFAB3718C423",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        7,
+        5,
+        8,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.TriangulationUtility, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::TessellateBurst(Unity.Collections.Allocator, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int3*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "1bc6c4dd9ca95f00fc514aff6a333979",
+      "LinkName": "7D2E04AB7759F565",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        0,
+        7,
+        8,
+        5,
+        9,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.TriangulationUtility, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SubdivideBurst(Unity.Collections.Allocator, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int3*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "6d6b4b848f38a17a6e5c8edaef8bd516",
+      "LinkName": "4E9252389FAD9FEE",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        0,
+        7,
+        5,
+        8,
+        9,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.BoundedBiharmonicWeightsGenerator, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::SampleBones_(Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "bc68d8e3daa9e6728863071d23b501ee",
+      "LinkName": "4C542F1631655C96",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        7,
+        8,
+        5,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.BoundedBiharmonicWeightsGenerator, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::TriangulateSamplers_(Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "1fb1608623104393f18c91c6082648b1",
+      "LinkName": "0DF0BB6E3E9C95ED",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        7,
+        8,
+        5,
+        9,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.BoundedBiharmonicWeightsGenerator, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::TriangulateInternal_(System.Void*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Void*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Void*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32&, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "f083ca0ffbe217ea421c5396276ab97e",
+      "LinkName": "9C009FC40CDEA715",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        5,
+        8,
+        7,
+        9,
+        0,
+        6
+      ]
+    },
+    {
+      "FullName": "UnityEditor.U2D.Animation.BoundedBiharmonicWeightsGenerator, Unity.2D.Animation.Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::CalculateInternal_(Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.float2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Mathematics.int2*, Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32*, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|UnityEngine.BoneWeight*, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)",
+      "ModuleOptionsHash": 15221144590354301703,
+      "ModuleHash": "200f808452fcd2a612c1160130d856bc",
+      "LinkName": "1275254E9CEB788C",
+      "AssemblyDependencyIndices": [
+        4,
+        2,
+        7,
+        0,
+        8,
+        5,
+        9,
+        6
+      ]
+    }
+  ]
+}

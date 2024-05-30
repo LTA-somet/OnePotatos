@@ -1,0 +1,541 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1716901160566761, "dur":917, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160567686, "dur":89, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1716901160567811, "dur":20, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1716901160567832, "dur":251, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1716901160568105, "dur":630, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160568735, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648109, "dur":91, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648200, "dur":32, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648233, "dur":27, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648260, "dur":16, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648276, "dur":18, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648294, "dur":19, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648313, "dur":3, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648317, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648327, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648329, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648334, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648336, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648343, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648345, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648350, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648352, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648359, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648383, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160648413, "dur":2177, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1716901160568681, "dur":85, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160568766, "dur":2463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160571233, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1716901160571328, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160573009, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1716901160575236, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1716901160575289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160575451, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1716901160576609, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1716901160576648, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160576654, "dur":840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":1, "ts":1716901160577529, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos.exe" }}
+,{ "pid":12345, "tid":1, "ts":1716901160577550, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160577554, "dur":1768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos.exe" }}
+,{ "pid":12345, "tid":1, "ts":1716901160579334, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160579349, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160579354, "dur":1054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160580424, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160580517, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160580522, "dur":4113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160584655, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160584684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160584696, "dur":5099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160589815, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160589831, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160589837, "dur":5589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160595450, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160595468, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160595474, "dur":2094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160597584, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160597602, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160597609, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160600667, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160600684, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160600694, "dur":2223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160602930, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160602950, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160602955, "dur":2087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160605089, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160605105, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160605110, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160607457, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160607475, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160607481, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160609194, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160609215, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160609223, "dur":1084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160610318, "dur":231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160610552, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160610557, "dur":1911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160612481, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160612574, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160612580, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160614310, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160614325, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160614331, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160615969, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160615983, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160615989, "dur":2073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160618079, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160618101, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160618108, "dur":2365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1716901160620488, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1716901160620502, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160620557, "dur":1087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1716901160621661, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1716901160621701, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160621707, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1716901160622681, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1716901160622694, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160622700, "dur":1045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1716901160623761, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1716901160623774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160623779, "dur":4644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1716901160628438, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1716901160628450, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1716901160628518, "dur":2755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1716901160631287, "dur":16807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160568637, "dur":115, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160568752, "dur":2485, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160571237, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1716901160571311, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160573153, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1716901160575102, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1716901160575159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160575481, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1716901160577319, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1716901160577370, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160577374, "dur":7560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1716901160584973, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160584989, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160585000, "dur":3993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160589012, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160589029, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160589038, "dur":985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160590037, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160590051, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160590056, "dur":4880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160594953, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160594968, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160594976, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160596442, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160596458, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160596463, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160598127, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160598145, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160598151, "dur":3391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160601557, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160601573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160601580, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160603446, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160603461, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160603467, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160604823, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160604846, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160604852, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160606451, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160606471, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160606478, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160608192, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160608206, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160608212, "dur":1328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160609552, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160609713, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160609719, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160611122, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160611138, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160611146, "dur":1177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160612336, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160612408, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160612414, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160613833, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160613873, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160613878, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160615804, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160615819, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160615824, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160618150, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160618164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160618170, "dur":5040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1716901160623224, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1716901160623236, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160623241, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1716901160627069, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level4" }}
+,{ "pid":12345, "tid":2, "ts":1716901160627087, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1716901160627097, "dur":6065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level4" }}
+,{ "pid":12345, "tid":2, "ts":1716901160633175, "dur":14939, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160568656, "dur":104, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160568760, "dur":2475, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160571237, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1716901160571376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160573012, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1716901160575073, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1716901160575119, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160575238, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1716901160576841, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160576919, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160577212, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160579131, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160579148, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160579157, "dur":3466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160582651, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160582671, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160582682, "dur":7817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160590519, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160590542, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160590548, "dur":3623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160594187, "dur":258, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160594449, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160594460, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160596270, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160596289, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160596299, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160598490, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160598504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160598510, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160599840, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160599854, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160599859, "dur":2533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160602406, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160602430, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160602436, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160604131, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160604145, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160604153, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160605996, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160606026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160606036, "dur":1948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160608000, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160608033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160608039, "dur":1751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160609804, "dur":726, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160610533, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160610538, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160612336, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160612420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160612425, "dur":1209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160613664, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160613704, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160613710, "dur":3218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160616942, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160616957, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160616961, "dur":5760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1716901160622738, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1716901160622750, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160622754, "dur":2726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1716901160625498, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1716901160625585, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160625595, "dur":4067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1716901160629717, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1716901160629732, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1716901160629738, "dur":3552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1716901160633301, "dur":14806, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160568596, "dur":145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160568743, "dur":2468, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160571220, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1716901160571223, "dur":19, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160571246, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1716901160571251, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160572120, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1716901160575056, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1716901160575105, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160575234, "dur":1168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1716901160576443, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1716901160576480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160576527, "dur":969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1716901160577532, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1716901160577568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160577879, "dur":15234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1716901160593156, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160593178, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160593184, "dur":2609, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160595808, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160595832, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160595838, "dur":2017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160597871, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160597888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160597893, "dur":1965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160599871, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160599886, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160599892, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160602179, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160602195, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160602202, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160603784, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160603802, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160603809, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160605103, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160605123, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160605128, "dur":1998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160607144, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160607164, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160607171, "dur":1972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160609156, "dur":655, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160609815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160609821, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160611412, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160611426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160611431, "dur":1683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160613125, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160613140, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160613145, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160614756, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160614777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160614810, "dur":2002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160616825, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160616838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160616844, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160620105, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160620218, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160620225, "dur":2562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1716901160622800, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1716901160622813, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160622818, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":4, "ts":1716901160627316, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1716901160627330, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160627336, "dur":2672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level3" }}
+,{ "pid":12345, "tid":4, "ts":1716901160630024, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1716901160630038, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1716901160630043, "dur":2460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1716901160632520, "dur":15573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160568620, "dur":126, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160568746, "dur":2556, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160571302, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1716901160571346, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160573333, "dur":1710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1716901160575090, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1716901160575156, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160575800, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1716901160576749, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1716901160576786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160576792, "dur":1098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1716901160577925, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160577961, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160578205, "dur":748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160578966, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160578979, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160578986, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160579903, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160579920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160579926, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160580932, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160580951, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160580956, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160585416, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160585438, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160585444, "dur":4345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160589805, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160589822, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160589829, "dur":5684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160595768, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160595789, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160595797, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160598581, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160598607, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160598613, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160600019, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160600033, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160600038, "dur":2708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160602764, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160602779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160602786, "dur":2281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160605080, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160605096, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160605102, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160607511, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160607527, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160607532, "dur":2688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160610255, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160610270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160610276, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160611690, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160611817, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160611822, "dur":1604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160613439, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160613473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160613479, "dur":1849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160615348, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160615368, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160615376, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160617594, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160617627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160617634, "dur":2842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":5, "ts":1716901160620495, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1716901160620509, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160620514, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":5, "ts":1716901160621431, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":5, "ts":1716901160621448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160621456, "dur":994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":5, "ts":1716901160622474, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":5, "ts":1716901160622491, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160622497, "dur":3014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":5, "ts":1716901160625527, "dur":9392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1716901160634924, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1716901160634934, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1716901160635753, "dur":12353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160568646, "dur":110, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160568756, "dur":2458, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160571220, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1716901160571309, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160573305, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1716901160575031, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1716901160575074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160575182, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1716901160576941, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160576981, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160577349, "dur":18072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160595483, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160595502, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160595508, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160597784, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160597798, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160597804, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160599560, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160599573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160599579, "dur":1161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160600753, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160600863, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160600869, "dur":5569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160606462, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160606483, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160606489, "dur":1836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160608338, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160608437, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160608443, "dur":1605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160610061, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160610128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160610134, "dur":1380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160611528, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160611623, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160611628, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160612984, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160612999, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160613004, "dur":3967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160616985, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160617000, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160617004, "dur":2975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160619996, "dur":432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160620431, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160620463, "dur":2579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1716901160623057, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1716901160623076, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160623081, "dur":5042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1716901160628136, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1716901160628153, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160628159, "dur":2935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1716901160631109, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1716901160631188, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1716901160631195, "dur":3296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1716901160634509, "dur":13582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160568671, "dur":91, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160568762, "dur":2450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160571220, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1716901160571291, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160572804, "dur":2359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1716901160575237, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1716901160575300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160575631, "dur":2092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1716901160578229, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160578315, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160578362, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160579708, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160579724, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160579729, "dur":837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160580591, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160580617, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160580623, "dur":5944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160586587, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160586603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160586612, "dur":6484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160593115, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160593137, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160593146, "dur":1841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160595002, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160595094, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160595101, "dur":1648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160596763, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160596776, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160596783, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160599369, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160599391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160599399, "dur":1353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160600864, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160600880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160600886, "dur":2051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160602950, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160602965, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160602970, "dur":1429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160604414, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160604432, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160604437, "dur":2830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160607285, "dur":19, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160607307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160607313, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160608951, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160609279, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160609286, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160610598, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160610611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160610635, "dur":1489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160612136, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160612209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160612215, "dur":1492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160613719, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160613733, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160613738, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160616866, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160616880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160616885, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160618786, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160618816, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160618824, "dur":3498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1716901160622346, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1716901160622442, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160622450, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":7, "ts":1716901160623505, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1716901160623519, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160623523, "dur":5305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1716901160628843, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1716901160628857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1716901160628862, "dur":3892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1716901160632768, "dur":15351, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160568699, "dur":70, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160568770, "dur":2453, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160571225, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1716901160571311, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160573135, "dur":1811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1716901160575001, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1716901160575050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160575147, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1716901160576990, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160577035, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160577039, "dur":32489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160609567, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160609902, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160609908, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160611384, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160611398, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160611404, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160612892, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160612907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160612912, "dur":1685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160614609, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160614624, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160614630, "dur":2103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160616745, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160616761, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160616767, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160620226, "dur":26505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160646738, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1716901160647128, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/tuana/OneDrive/My tnh/OnePotatos/OnePotatos_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":8, "ts":1716901160648075, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":8, "ts":1716901160648078, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1716901160651776, "dur":2127, "ph":"X", "name": "ProfilerWriteOutput" }
+,
